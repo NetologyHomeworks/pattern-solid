@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Phone",
+    "productName": "Galaxy S10",
+    "manufacturer": "Samsung",
+    "country": "Korea",
+    "price": 20990.0
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "productName": "iPhone 10",
+    "manufacturer": "Apple",
+    "country": "USA",
+    "price": 24990.0
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "productName": "Galaxy A22",
+    "manufacturer": "Samsung",
+    "country": "Korea",
+    "price": 19990.0
+  },
+  {
+    "id": 4,
+    "name": "Phone",
+    "productName": "iPhone 12",
+    "manufacturer": "Apple",
+    "country": "USA",
+    "price": 61980.0
+  },
+  {
+    "id": 5,
+    "name": "Phone",
+    "productName": "iPhone 13",
+    "manufacturer": "Apple",
+    "country": "USA",
+    "price": 94890.0
+  },
+  {
+    "id": 6,
+    "name": "Phone",
+    "productName": "iPhone 13",
+    "manufacturer": "Apple",
+    "country": "USA",
+    "price": 81990.0
+  },
+  {
+    "id": 7,
+    "name": "Notebook",
+    "productName": "Lenovo",
+    "manufacturer": "Lenovo Group Limited",
+    "country": "China",
+    "price": 49116.0
+  },
+  {
+    "id": 8,
+    "name": "Notebook",
+    "productName": "Acer",
+    "manufacturer": "Корпорация Хунци",
+    "country": "China",
+    "price": 34999.0
+  }
+]
